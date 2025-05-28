@@ -1,6 +1,6 @@
 #aws-eb-python-dockerfiles
 
-#####This is the Python Dockerfile repository for AWS Elastic Beanstalk.
+###This is the Python Dockerfile repository for AWS Elastic Beanstalk.
 
 See also <https://aws.amazon.com/elasticbeanstalk/>
 
